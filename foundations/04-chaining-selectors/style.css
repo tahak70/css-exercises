@@ -1,1 +1,9 @@
-/* Add CSS Styling */
+.tall {
+    height: 400px;
+    width: 200px;
+}
+
+.square {
+    height: 300px;
+    width: 300px;
+}
